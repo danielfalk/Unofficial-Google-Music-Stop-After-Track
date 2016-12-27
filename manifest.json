@@ -18,7 +18,8 @@
       "suggested_key": {
         "default": "Ctrl+Shift+4",
       },
-      "description": "Stop After Current"
+      "description": "Stop After Current",
+      "global": true
     },
   },
   "manifest_version": 2
